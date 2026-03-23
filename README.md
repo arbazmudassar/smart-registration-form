@@ -24,6 +24,11 @@ The main goal of this project is to improve usability by providing instant feedb
 
 ---
 
+## 🔗 Live Demo
+https://arbazmudassar.github.io/smart-registration-form/
+
+---
+
 ## 🛠️ Tech Stack
 
 * **HTML** – Structure
