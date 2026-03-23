@@ -43,7 +43,7 @@ https://arbazmudassar.github.io/smart-registration-form/
 ```id="v0c7r3"
 smart-registration-form/
 │
-├── form-validation.html
+├── index.html
 ├── css/
 │   └── 
 ├── js/
